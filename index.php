@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <?php
 
 // Comment these lines to hide errors
@@ -8,3 +10,13 @@ require 'includes/config.php';
 require 'includes/functions.php';
 
 init();
+
+?>
+
+<html>
+
+  <body>
+    Hello from AWS
+  </body>
+
+</html>
